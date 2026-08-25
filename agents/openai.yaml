@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Figure PPT"
+  short_description: "Build editable publication figures in PowerPoint"
+  default_prompt: "Use $scientific-figure-ppt to create an editable, publication-ready scientific figure in PowerPoint."

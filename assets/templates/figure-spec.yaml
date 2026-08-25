@@ -1,0 +1,26 @@
+figure:
+  name: ""
+  mode: "new"
+  width_mm: null
+  height_mm: null
+  final_formats:
+    - "pptx"
+    - "pdf"
+
+sources:
+  manuscript: []
+  caption: []
+  figures: []
+
+visual_system:
+  # Fill these from the target journal's author guidelines.
+  sans_font: null
+  math_font: null
+  minimum_text_pt: null
+  palette: {}
+  line_weights_pt: {}
+
+subplots: []
+
+constraints: []
+uncertainties: []
